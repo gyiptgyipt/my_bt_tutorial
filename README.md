@@ -1,2 +1,2 @@
 # my_bt_tutorial
-bt groot test
+bt groot py_trees 
